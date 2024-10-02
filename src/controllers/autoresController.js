@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import Erro404 from "../erros/Erro404.js";
 import {autores} from "../models/index.js";
 
